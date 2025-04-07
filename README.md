@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul-Gautam.
 - 👀 I’m interested in Software and Web Development.
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently learning Laravel & Odoo
 - 💞️ I’m looking to collaborate on live projects.
 - 📫 How to reach me via mail id rahulgautam7r@gmail.com
 
